@@ -29,7 +29,7 @@
 
 }
 
-.nav-section .button {
+.nav-section .button{
     width: 100%;
     max-width: 132px;
     height: 48px;
@@ -38,9 +38,9 @@
     color: #FFFFFF;
     border-radius: 10px;
     border: none;
-
-
-
+}
+.button:hover{
+    background-color: #4adeff;
 }
 
 .first-bg .another-part {
@@ -118,6 +118,9 @@
     color: #FFFFFF;
     border-radius: 10px;
     border: none;
+}
+.bt2:hover{
+    background-color: #4adeff;
 }
 
 .second-section div img {
@@ -359,3 +362,8 @@ input[type="text"] {
   padding: 0;
   margin-top: 20px;
 }
+
+button:hover{
+    background-color: #11a723;
+}
+
